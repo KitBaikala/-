@@ -1,0 +1,16 @@
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\bin\Debug\net6.0\задачи002.exe
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\bin\Debug\net6.0\задачи002.deps.json
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\bin\Debug\net6.0\задачи002.runtimeconfig.json
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\bin\Debug\net6.0\задачи002.dll
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\bin\Debug\net6.0\ref\задачи002.dll
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\bin\Debug\net6.0\задачи002.pdb
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\obj\Debug\net6.0\задачи002.GlobalUsings.g.cs
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\obj\Debug\net6.0\задачи002.csproj.AssemblyReference.cache
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\obj\Debug\net6.0\задачи002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\obj\Debug\net6.0\задачи002.AssemblyInfoInputs.cache
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\obj\Debug\net6.0\задачи002.AssemblyInfo.cs
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\obj\Debug\net6.0\задачи002.csproj.CoreCompileInputs.cache
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\obj\Debug\net6.0\задачи002.dll
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\obj\Debug\net6.0\ref\задачи002.dll
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\obj\Debug\net6.0\задачи002.pdb
+C:\Андрей\GB\практика с ЯП\seminar-2\задачи002\obj\Debug\net6.0\задачи002.genruntimeconfig.cache
